@@ -1,0 +1,2308 @@
+{
+  "latin_phrases": [
+    {
+      "phrase": "Ab aeterno",
+      "meaning": "Ebediyetten beri"
+    },
+    {
+      "phrase": "Ab antiquo",
+      "meaning": "Eski zamanlardan beri"
+    },
+    {
+      "phrase": "Ab imo pectore",
+      "meaning": "Kalbin en derininden"
+    },
+    {
+      "phrase": "Ab incunabulis",
+      "meaning": "Beşikten beri"
+    },
+    {
+      "phrase": "Ab initio",
+      "meaning": "Başlangıçtan itibaren"
+    },
+    {
+      "phrase": "Ab intra",
+      "meaning": "İçeriden"
+    },
+    {
+      "phrase": "Ab origine",
+      "meaning": "Kökeninden"
+    },
+    {
+      "phrase": "Ab ovo",
+      "meaning": "Başından itibaren"
+    },
+    {
+      "phrase": "Abundat dulcibus vitiis",
+      "meaning": "Tatlı kusurlarla doludur"
+    },
+    {
+      "phrase": "Abusus non tollit usum",
+      "meaning": "Kötü kullanım kullanımı ortadan kaldırmaz"
+    },
+    {
+      "phrase": "Acta est fabula",
+      "meaning": "Oyun bitti"
+    },
+    {
+      "phrase": "Acta non verba",
+      "meaning": "Eylemler sözden daha önemlidir"
+    },
+    {
+      "phrase": "Ad astra per aspera",
+      "meaning": "Zorluklarla yıldızlara doğru"
+    },
+    {
+      "phrase": "Ad captandum vulgus",
+      "meaning": "Halkı etkilemeye yönelik"
+    },
+    {
+      "phrase": "Ad finem",
+      "meaning": "Sona doğru"
+    },
+    {
+      "phrase": "Ad hoc",
+      "meaning": "Bu durum için, bu amaçla"
+    },
+    {
+      "phrase": "Ad hoc ergo propter hoc",
+      "meaning": "Bu nedenle bu nedenle"
+    },
+    {
+      "phrase": "Ad infinitum",
+      "meaning": "Sonsuza kadar"
+    },
+    {
+      "phrase": "Ad interim",
+      "meaning": "Geçici olarak"
+    },
+    {
+      "phrase": "Ad libitum",
+      "meaning": "İstediğiniz gibi"
+    },
+    {
+      "phrase": "Ad nauseam",
+      "meaning": "Mide bulandırıcı şekilde"
+    },
+    {
+      "phrase": "Ad rem",
+      "meaning": "Konuyla ilgili"
+    },
+    {
+      "phrase": "Adsum",
+      "meaning": "Buradayım"
+    },
+    {
+      "phrase": "Alea iacta est",
+      "meaning": "Zar atıldı"
+    },
+    {
+      "phrase": "Alma mater",
+      "meaning": "Besleyici anne"
+    },
+    {
+      "phrase": "Alter ego",
+      "meaning": "İkinci ben"
+    },
+    {
+      "phrase": "Amor fati",
+      "meaning": "Kader sevgisi"
+    },
+    {
+      "phrase": "Amor vincit omnia",
+      "meaning": "Aşk her şeyi yener"
+    },
+    {
+      "phrase": "Anno Domini",
+      "meaning": "Milattan sonra"
+    },
+    {
+      "phrase": "Ante bellum",
+      "meaning": "Savaş öncesi"
+    },
+    {
+      "phrase": "Aqua vitae",
+      "meaning": "Hayat suyu"
+    },
+    {
+      "phrase": "Ars gratia artis",
+      "meaning": "Sanat sanat içindir"
+    },
+    {
+      "phrase": "Ars longa, vita brevis",
+      "meaning": "Sanat uzun, hayat kısa"
+    },
+    {
+      "phrase": "Audaces fortuna iuvat",
+      "meaning": "Cesur olanlara şans yardım eder"
+    },
+    {
+      "phrase": "Aut Caesar, aut nihil",
+      "meaning": "Ya Sezar, ya hiçbir şey"
+    },
+    {
+      "phrase": "Aut dedere aut judicare",
+      "meaning": "Teslim et ya da yargıla"
+    },
+    {
+      "phrase": "Aut inveniam viam aut faciam",
+      "meaning": "Bir yol bulacağım ya da bir yol yapacağım"
+    },
+    {
+      "phrase": "Ave Caesar, morituri te salutant",
+      "meaning": "Merhaba Sezar, ölecek olanlar sana selam söylüyor"
+    },
+    {
+      "phrase": "Baculum in mano viri boni",
+      "meaning": "İyi bir adamın elinde değnek"
+    },
+    {
+      "phrase": "Barba non facit philosophum",
+      "meaning": "Sakal filozof yapmaz"
+    },
+    {
+      "phrase": "Beati pauperes spiritu",
+      "meaning": "Ruhça zengin olanlar mutludur"
+    },
+    {
+      "phrase": "Beatus ille qui procul negotiis",
+      "meaning": "Ne işlerden uzak olan kişi ne de siyasetle uğraşan"
+    },
+    {
+      "phrase": "Beatus qui prodest, quibus potest",
+      "meaning": "Kendi çıkarına hizmet edebilen mutludur"
+    },
+    {
+      "phrase": "Bella gerant alii, tu felix Austria nube",
+      "meaning": "Diğerleri savaşsın, sen mutlu ol Avusturya gelini"
+    },
+    {
+      "phrase": "Bellum omnium contra omnes",
+      "meaning": "Herkesin herkese karşı savaşı"
+    },
+    {
+      "phrase": "Bellum se ipsum alet",
+      "meaning": "Savaş kendini besler"
+    },
+    {
+      "phrase": "Bene diagnoscitur, bene curatur",
+      "meaning": "İyi teşhis edilen, iyi tedavi edilir"
+    },
+    {
+      "phrase": "Bene placitum laudari a laudato viro",
+      "meaning": "İyi bir fikir, iyi bir adam tarafından övülmektedir"
+    },
+    {
+      "phrase": "Bene qui latuit bene vixit",
+      "meaning": "İyi saklanan iyi yaşar"
+    },
+    {
+      "phrase": "Bene qui sedulo agit",
+      "meaning": "İyi bir şekilde çalışan"
+    },
+    {
+      "phrase": "Beneficium accipere libertatem est vendere",
+      "meaning": "Yardım almak özgürlüğü satmaktır"
+    },
+    {
+      "phrase": "Bis dat qui cito dat",
+      "meaning": "Çabuk veren iki kez verir"
+    },
+    {
+      "phrase": "Bis peccare in bello non licet",
+      "meaning": "Savaşta iki kez hata yapmak mümkün değildir"
+    },
+    {
+      "phrase": "Bis repetita placent",
+      "meaning": "İkinci kez tekrarlanan hoşa gider"
+    },
+    {
+      "phrase": "Bis vincit qui se vincit in victoria",
+      "meaning": "İçinde zafer kazanan iki kez kazanır"
+    },
+    {
+      "phrase": "Bona fide",
+      "meaning": "İyi niyetle"
+    },
+    {
+      "phrase": "Bona mens omnium rerum dominatrix est",
+      "meaning": "İyi bir zihin her şeyin hükümdarıdır"
+    },
+    {
+      "phrase": "Bona valetudo melior est quam maximae divitiae",
+      "meaning": "İyi bir sağlık, en büyük zenginlikten daha iyidir"
+    },
+    {
+      "phrase": "Boni judicis est ampliare justitiam",
+      "meaning": "İyi bir hakimin adaleti genişletmektir"
+    },
+    {
+      "phrase": "Boni pastoris est tondere pecus, non deglubere",
+      "meaning": "İyi bir çobanın hayvanları tımar etmesi, yüzmekten çok tımar etmesidir"
+    },
+    {
+      "phrase": "Bonis nocet, quisquis pepercerit malis",
+      "meaning": "İyi insanlar, kötülüğe göz yumanlar zarar görür"
+    },
+    {
+      "phrase": "Bonus animus in mala re dimidium est mali",
+      "meaning": "Kötü bir durumda iyi bir zihin, kötülüğün yarısıdır"
+    },
+    {
+      "phrase": "Bonus vir semper tiro",
+      "meaning": "İyi bir adam her zaman öğrencidir"
+    },
+    {
+      "phrase": "Bonum commune communitatis",
+      "meaning": "Toplumun ortak iyiliği"
+    },
+    {
+      "phrase": "Bonum commune hominis",
+      "meaning": "İnsanın ortak iyiliği"
+    },
+    {
+      "phrase": "Bonum est fugienda aspicere in alieno malo",
+      "meaning": "Başkalarının kötüsünü görmek kaçınılması gereken bir iyiliktir"
+    },
+    {
+      "phrase": "Bonum est munus ex more honoris",
+      "meaning": "Görev onurdan kaynaklanan bir iyiliktir"
+    },
+    {
+      "phrase": "Bonum ex integra causa, malum ex quocumque defectu",
+      "meaning": "İyi, tam bir nedenle gelir, kötü ise herhangi bir eksiklikten kaynaklanır"
+    },
+    {
+      "phrase": "Bonum in omni re quaerendum est",
+      "meaning": "Her şeyde iyilik aranmalıdır"
+    },
+    {
+      "phrase": "Bonum super omne nomen",
+      "meaning": "İyi her isimden üstündür"
+    },
+    {
+      "phrase": "Bonum vinum laetificat cor hominis",
+      "meaning": "İyi şarap insanın kalbini sevindirir"
+    },
+    {
+      "phrase": "Brevi manu",
+      "meaning": "Kısa bir el ile"
+    },
+    {
+      "phrase": "Brevi tempore multa fit",
+      "meaning": "Kısa zamanda birçok şey olur"
+    },
+    {
+      "phrase": "Brevis est totus fructus",
+      "meaning": "Tüm meyve kısadır"
+    },
+    {
+      "phrase": "Brevis est via, longa est vita",
+      "meaning": "Yol kısa, yaşam uzun"
+    },
+    {
+      "phrase": "Brevis ipsa vita est sed malis fit longior",
+      "meaning": "Hayat kısa ama kötülüklerle daha uzun hale gelir"
+    },
+    {
+      "phrase": "Brevis oratio penetrat coelos",
+      "meaning": "Kısa dua göğe ulaşır"
+    },
+    {
+      "phrase": "Brevitas est eloquentiae soror",
+      "meaning": "Kısalık, güzel konuşmanın kız kardeşidir"
+    },
+    {
+      "phrase": "Brevitas et claritas",
+      "meaning": "Kısalık ve açıklık"
+    },
+    {
+      "phrase": "Breviter et efficaciter",
+      "meaning": "Kısaca ve etkili bir şekilde"
+    },
+    {
+      "phrase": "Brevior saltare cum deformibus virginibus est vita",
+      "meaning": "Çirkin kızlarla dans etmek kısa bir hayattır"
+    },
+    {
+      "phrase": "Brevior saltare cum deformibus viris est vita",
+      "meaning": "Çirkindir, çünkü kısa süren bir hayatla dans etmek"
+    },
+    {
+      "phrase": "Bruma nivis et frigoris",
+      "meaning": "Kışın kar ve soğuğu"
+    },
+    {
+      "phrase": "Cacoethes loquendi",
+      "meaning": "Konuşma ihtiyacı"
+    },
+    {
+      "phrase": "Cacoethes scribendi",
+      "meaning": "Yazma tutkusu"
+    },
+    {
+      "phrase": "Caput mortuum",
+      "meaning": "Ölü baş"
+    },
+    {
+      "phrase": "Caput mortuum philosophicum",
+      "meaning": "Felsefi ölü kafa"
+    },
+    {
+      "phrase": "Caritas et amor",
+      "meaning": "Sevgi ve aşk"
+    },
+    {
+      "phrase": "Caritas vincit omnia",
+      "meaning": "Sevgi her şeyi yener"
+    },
+    {
+      "phrase": "Carpe noctem",
+      "meaning": "Geceyi yakala"
+    },
+    {
+      "phrase": "Casus belli",
+      "meaning": "Savaş sebebi"
+    },
+    {
+      "phrase": "Causa mortis",
+      "meaning": "Ölüm nedeni"
+    },
+    {
+      "phrase": "Causa sine qua non",
+      "meaning": "Şart olan sebep"
+    },
+    {
+      "phrase": "Cave canem",
+      "meaning": "Köpekten kaçının"
+    },
+    {
+      "phrase": "Cave ne cadas",
+      "meaning": "Düşmemeye dikkat et"
+    },
+    {
+      "phrase": "Caveat emptor",
+      "meaning": "Alıcı saklasın"
+    },
+    {
+      "phrase": "Certum est quod certum reddi potest",
+      "meaning": "Kesin olan, kesin olarak kanıtlanabilir"
+    },
+    {
+      "phrase": "Ceteris paribus",
+      "meaning": "Diğer şeyler sabit olduğunda"
+    },
+    {
+      "phrase": "Citius, altius, fortius",
+      "meaning": "Daha hızlı, daha yüksek, daha güçlü"
+    },
+    {
+      "phrase": "Cogito, ergo doleo",
+      "meaning": "Düşünüyorum, öyleyse acı çekiyorum"
+    },
+    {
+      "phrase": "Cogito, ergo laboro",
+      "meaning": "Düşünüyorum, öyleyse çalışıyorum"
+    },
+    {
+      "phrase": "Cogito, ergo sto",
+      "meaning": "Düşünüyorum, öyleyse varım duruyorum"
+    },
+    {
+      "phrase": "Cogito, ergo sum",
+      "meaning": "Düşünüyorum, öyleyse varım"
+    },
+    {
+      "phrase": "Cogito, ergo sumus",
+      "meaning": "Düşünüyorum, öyleyse biz varız"
+    },
+    {
+      "phrase": "Communis opinio",
+      "meaning": "Genel kanı"
+    },
+    {
+      "phrase": "Compos mentis",
+      "meaning": "Akıllı, zihinsel olarak sağlıklı"
+    },
+    {
+      "phrase": "Concordia res parvae crescunt",
+      "meaning": "Uyum, küçük şeyleri büyütür"
+    },
+    {
+      "phrase": "Condicio sine qua non",
+      "meaning": "Olmazsa olmaz koşul"
+    },
+    {
+      "phrase": "Confer (conf.)",
+      "meaning": "Karşılaştır"
+    },
+    {
+      "phrase": "Consuetudo est altera natura",
+      "meaning": "Alışkanlık ikinci doğadır"
+    },
+    {
+      "phrase": "Consuetudo pro lege servatur",
+      "meaning": "Gelenek yasa yerine geçer"
+    },
+    {
+      "phrase": "Contra bonos mores",
+      "meaning": "İyi ahlaka karşı"
+    },
+    {
+      "phrase": "Contra legem",
+      "meaning": "Kanuna aykırı"
+    },
+    {
+      "phrase": "Contra principia negantem non est disputandum",
+      "meaning": "İlkelerine karşı çıkanlarla tartışma yapılmaz"
+    },
+    {
+      "phrase": "Contra vim mortis non est medicamen in hortis",
+      "meaning": "Ölüm gücüne karşı bahçede ilaç yoktur"
+    },
+    {
+      "phrase": "Coram Deo",
+      "meaning": "Tanrı'nın huzurunda"
+    },
+    {
+      "phrase": "Coram populo",
+      "meaning": "Halkın önünde"
+    },
+    {
+      "phrase": "Corpus delicti",
+      "meaning": "Suç unsuru"
+    },
+    {
+      "phrase": "Corpus iuris civilis",
+      "meaning": "Roma hukuk kanunları"
+    },
+    {
+      "phrase": "Credere et agere",
+      "meaning": "İnanmak ve harekete geçmek"
+    },
+    {
+      "phrase": "Credo quia absurdum est",
+      "meaning": "Çünkü saçma olduğu için inanıyorum"
+    },
+    {
+      "phrase": "Crescit eundo",
+      "meaning": "Yürüdükçe büyür"
+    },
+    {
+      "phrase": "Cui bono?",
+      "meaning": "Kime yarar?"
+    },
+    {
+      "phrase": "Cui prodest?",
+      "meaning": "Kimin işine yarar?"
+    },
+    {
+      "phrase": "Cuique suum",
+      "meaning": "Herkese kendi"
+    },
+    {
+      "phrase": "Cuiusvis hominis est errare",
+      "meaning": "Her insanın yanılabileceği"
+    },
+    {
+      "phrase": "Cum grano salis",
+      "meaning": "Biraz tuzla birlikte"
+    },
+    {
+      "phrase": "Cum laude",
+      "meaning": "Yüksek onurla"
+    },
+    {
+      "phrase": "Cum suis",
+      "meaning": "Kendi insanlarıyla birlikte"
+    },
+    {
+      "phrase": "Cum tempore",
+      "meaning": "Zamana uygun olarak"
+    },
+    {
+      "phrase": "Cura animarum",
+      "meaning": "Ruhların kurtuluşu"
+    },
+    {
+      "phrase": "Cura posterior",
+      "meaning": "Sonra gelir"
+    },
+    {
+      "phrase": "Cura te ipsum",
+      "meaning": "Kendi kendine tedavi et"
+    },
+    {
+      "phrase": "Cura ut valeas",
+      "meaning": "İyi olmanı dilerim"
+    },
+    {
+      "phrase": "Curriculum vitae",
+      "meaning": "Yaşam öyküsü"
+    },
+    {
+      "phrase": "De facto",
+      "meaning": "Fiili olarak"
+    },
+    {
+      "phrase": "De gustibus non est disputandum",
+      "meaning": "Tadımız tartışılmaz"
+    },
+    {
+      "phrase": "De jure",
+      "meaning": "Hukuken"
+    },
+    {
+      "phrase": "De minimis non curat lex",
+      "meaning": "Yasalar önemli olmayan konularla ilgilenmez"
+    },
+    {
+      "phrase": "De minimis non curat praetor",
+      "meaning": "Savcı önemsiz konularla ilgilenmez"
+    },
+    {
+      "phrase": "De mortuis nil nisi bonum",
+      "meaning": "Ölüler hakkında sadece iyi şeyler söylenir"
+    },
+    {
+      "phrase": "De novo",
+      "meaning": "Yeniden"
+    },
+    {
+      "phrase": "De profundis",
+      "meaning": "Derinliklerden"
+    },
+    {
+      "phrase": "De te fabula narratur",
+      "meaning": "Senin hakkında bir hikaye anlatılıyor"
+    },
+    {
+      "phrase": "Delirium tremens",
+      "meaning": "Titreme nöbetleri"
+    },
+    {
+      "phrase": "Desideratum",
+      "meaning": "Arzu edilen şey"
+    },
+    {
+      "phrase": "Deus ex machina",
+      "meaning": "Makinadan gelen tanrı"
+    },
+    {
+      "phrase": "Dies irae",
+      "meaning": "Öfkenin günü"
+    },
+    {
+      "phrase": "Divide et impera",
+      "meaning": "Böl ve yönet"
+    },
+    {
+      "phrase": "Dolce far niente",
+      "meaning": "Hiçbir şey yapmanın tatlılığı"
+    },
+    {
+      "phrase": "Domine, dirige nos",
+      "meaning": "Efendimiz, bizi yönlendir"
+    },
+    {
+      "phrase": "Dominus vobiscum",
+      "meaning": "Rabbin sizinle olsun"
+    },
+    {
+      "phrase": "Dona nobis pacem",
+      "meaning": "Bize barış ver"
+    },
+    {
+      "phrase": "Dulce et decorum est",
+      "meaning": "Tatlı ve onurlu"
+    },
+    {
+      "phrase": "Dulce et decorum est pro patria mori",
+      "meaning": "Vatan için ölmek tatlı ve onurludur"
+    },
+    {
+      "phrase": "Dum spiro spero",
+      "meaning": "Nefes aldığım sürece umut ederim"
+    },
+    {
+      "phrase": "Dura lex, sed lex",
+      "meaning": "Sert yasa, ama yasa"
+    },
+    {
+      "phrase": "Durum et locum mutat, non animus",
+      "meaning": "Yer ve durum değişir, karakter değişmez"
+    },
+    {
+      "phrase": "Durum necessitatem non habet legem",
+      "meaning": "Durum kaideyi gerektirir"
+    },
+    {
+      "phrase": "Dux bellorum",
+      "meaning": "Savaşların lideri"
+    },
+    {
+      "phrase": "Dux femina facti",
+      "meaning": "Kadın lider eylemin başıdır"
+    },
+    {
+      "phrase": "E contrario",
+      "meaning": "Tersine"
+    },
+    {
+      "phrase": "E pluribus unum",
+      "meaning": "Birçoktan bir"
+    },
+    {
+      "phrase": "Ecce homo",
+      "meaning": "İşte insan"
+    },
+    {
+      "phrase": "Edimus, ut vivamus",
+      "meaning": "Yaşamak için yiyoruz"
+    },
+    {
+      "phrase": "Effugio periculum",
+      "meaning": "Tehlikeden kaçmak"
+    },
+    {
+      "phrase": "Ego sum qui sum",
+      "meaning": "Ben, benim"
+    },
+    {
+      "phrase": "Ego te absolvo",
+      "meaning": "Seni affediyorum"
+    },
+    {
+      "phrase": "Ego te provoco",
+      "meaning": "Seni meydan okuyorum"
+    },
+    {
+      "phrase": "Eheu fugaces labuntur anni",
+      "meaning": "Ey kaçan yıllar, ne çabuk geçiyorsunuz"
+    },
+    {
+      "phrase": "Ense petit placidam sub libertate quietem",
+      "meaning": "Kılıçla huzurlu bir özgürlüğü arar"
+    },
+    {
+      "phrase": "Errare est humanum, perseverare diabolicum",
+      "meaning": "Yanılmak insana özgüdür, ısrar etmek ise şeytani"
+    },
+    {
+      "phrase": "Errare humanum est",
+      "meaning": "Hata yapmak insana özgüdür"
+    },
+    {
+      "phrase": "Esse quam videri",
+      "meaning": "Görünmek değil, olmak"
+    },
+    {
+      "phrase": "Est modus in rebus",
+      "meaning": "Her şeyde bir ölçü vardır"
+    },
+    {
+      "phrase": "Et alia",
+      "meaning": "Ve diğerleri"
+    },
+    {
+      "phrase": "Et alii",
+      "meaning": "Ve diğerleri"
+    },
+    {
+      "phrase": "Et cetera",
+      "meaning": "Ve diğerleri, ve benzeri"
+    },
+    {
+      "phrase": "Et in Arcadia ego",
+      "meaning": "Ben de Arcadia'dayım"
+    },
+    {
+      "phrase": "Et lux in tenebris lucet",
+      "meaning": "Ve ışık karanlıkta parlar"
+    },
+    {
+      "phrase": "Et sic de ceteris",
+      "meaning": "Ve diğerlerine gelince"
+    },
+    {
+      "phrase": "Et tu, Brute?",
+      "meaning": "Sen de mi, Brütüs?"
+    },
+    {
+      "phrase": "Etiam si omnes, ego non",
+      "meaning": "Herkes yaparsa bile, ben yapmam"
+    },
+    {
+      "phrase": "Eunt anni more fluentis aquae",
+      "meaning": "Yıllar akıp gider gibi"
+    },
+    {
+      "phrase": "Ex animo",
+      "meaning": "Kalpten"
+    },
+    {
+      "phrase": "Ex cathedra",
+      "meaning": "Kürsüden"
+    },
+    {
+      "phrase": "Ex delicto",
+      "meaning": "Suçluluktan dolayı"
+    },
+    {
+      "phrase": "Ex falso sequitur quodlibet",
+      "meaning": "Yanlışla başlayan her şeyi kanıtlamak mümkündür"
+    },
+    {
+      "phrase": "Ex libris",
+      "meaning": "Kitaplardan"
+    },
+    {
+      "phrase": "Ex malis eligere minima",
+      "meaning": "En az kötüyü seçmek"
+    },
+    {
+      "phrase": "Ex mero motu",
+      "meaning": "Kendi isteğiyle"
+    },
+    {
+      "phrase": "Ex nihilo nihil fit",
+      "meaning": "Hiçlikten hiçbir şey olmaz"
+    },
+    {
+      "phrase": "Ex officio",
+      "meaning": "Görevli olarak"
+    },
+    {
+      "phrase": "Ex post facto",
+      "meaning": "Geriye dönük olarak"
+    },
+    {
+      "phrase": "Ex tenebris lux",
+      "meaning": "Karanlıktan aydınlık doğar"
+    },
+    {
+      "phrase": "Ex tunc",
+      "meaning": "O zamandan itibaren"
+    },
+    {
+      "phrase": "Ex turpi causa non oritur actio",
+      "meaning": "Ahlaka aykırı sebeplerden kaynaklanan bir eylemden hak talep edilemez"
+    },
+    {
+      "phrase": "Exempli gratia",
+      "meaning": "Örnek olarak"
+    },
+    {
+      "phrase": "Exemplum est argumentum in historia",
+      "meaning": "Tarih, örnekleme için bir argümandır"
+    },
+    {
+      "phrase": "Exercitatio optimus est magister",
+      "meaning": "Egzersiz en iyi öğretmendir"
+    },
+    {
+      "phrase": "Experientia docet",
+      "meaning": "Deneyim öğretir"
+    },
+    {
+      "phrase": "Experientia docet stultos",
+      "meaning": "Deneyim aptalları eğitir"
+    },
+    {
+      "phrase": "Experientia est optima magistra",
+      "meaning": "Deneyim en iyi öğretmendir"
+    },
+    {
+      "phrase": "Expressis verbis",
+      "meaning": "Açıkça ifade ederek"
+    },
+    {
+      "phrase": "Extra ecclesiam nulla salus",
+      "meaning": "Kilise dışında kurtuluş yok"
+    },
+    {
+      "phrase": "Extraordinary claims require extraordinary evidence",
+      "meaning": "Olağanüstü iddialar olağanüstü kanıtlar gerektirir"
+    },
+    {
+      "phrase": "Faber est suae quisque fortunae",
+      "meaning": "Herkes kendi şansının kuyumcusudur"
+    },
+    {
+      "phrase": "Fac et spera",
+      "meaning": "Yap ve umut et"
+    },
+    {
+      "phrase": "Facilis descensus Averno",
+      "meaning": "Cehenneme inmek kolaydır"
+    },
+    {
+      "phrase": "Facilis est inventis addere",
+      "meaning": "Keşfedilene eklemek kolaydır"
+    },
+    {
+      "phrase": "Facta, non verba",
+      "meaning": "Eylemler, sözlerden önemlidir"
+    },
+    {
+      "phrase": "Factum est",
+      "meaning": "İşte oldu"
+    },
+    {
+      "phrase": "Factum fieri infectum non potest",
+      "meaning": "Yapılan, yapılamaz hale getirilemez"
+    },
+    {
+      "phrase": "Falsus in uno, falsus in omnibus",
+      "meaning": "Bir konuda yanılgıya düşen, her konuda yanılgıya düşer"
+    },
+    {
+      "phrase": "Fama crescit eundo",
+      "meaning": "Ünü yolculukla artar"
+    },
+    {
+      "phrase": "Fama volat",
+      "meaning": "Dedikodu yayılır"
+    },
+    {
+      "phrase": "Fama, malum qua non aliud velocius ullum",
+      "meaning": "Dedikodu, hiçbir şeyden daha hızlı yayılan bir kötülüktür"
+    },
+    {
+      "phrase": "Fas est et ab hoste doceri",
+      "meaning": "Düşmandan bile öğrenmek mümkündür"
+    },
+    {
+      "phrase": "Fere libenter homines id quod volunt credunt",
+      "meaning": "İnsanlar, istediklerine inanmaktan hoşlanırlar"
+    },
+    {
+      "phrase": "Fervet opus",
+      "meaning": "İşte aşkla yanar"
+    },
+    {
+      "phrase": "Festina lente",
+      "meaning": "Acele et, yavaş davran"
+    },
+    {
+      "phrase": "Festinatio tarda est",
+      "meaning": "Acele etmek yavaştır"
+    },
+    {
+      "phrase": "Fiat justitia, pereat mundus",
+      "meaning": "Adalet yerine gelsin, dünya da batsın"
+    },
+    {
+      "phrase": "Fide et amore",
+      "meaning": "Güven ve sevgiyle"
+    },
+    {
+      "phrase": "Fidei defensor",
+      "meaning": "İnancın savunucusu"
+    },
+    {
+      "phrase": "Fidelis ad mortem",
+      "meaning": "Ölüme kadar sadık"
+    },
+    {
+      "phrase": "Fidelis et audax",
+      "meaning": "Sadık ve cesur"
+    },
+    {
+      "phrase": "Fides quaerens intellectum",
+      "meaning": "Anlam arayan inanç"
+    },
+    {
+      "phrase": "Fides servanda est",
+      "meaning": "Söz tutulmalıdır"
+    },
+    {
+      "phrase": "Finis coronat opus",
+      "meaning": "Sonuç işi taçlandırır"
+    },
+    {
+      "phrase": "Finis malorum est",
+      "meaning": "Kötülüklerin sonu vardır"
+    },
+    {
+      "phrase": "Finis non est ultimus",
+      "meaning": "Son, sonuncu değildir"
+    },
+    {
+      "phrase": "Finis origine pendet",
+      "meaning": "Son, başlangıca bağlıdır"
+    },
+    {
+      "phrase": "Flagrante delicto",
+      "meaning": "Suç işlenirken yakalanırken"
+    },
+    {
+      "phrase": "Forsan et haec olim meminisse iuvabit",
+      "meaning": "Belki de bunları bir gün hatırlamak iyi gelecek"
+    },
+    {
+      "phrase": "Fortes fortuna adiuvat",
+      "meaning": "Cesurların şansı yardım eder"
+    },
+    {
+      "phrase": "Fortes fortuna juvat",
+      "meaning": "Cesurların şansı yardım eder"
+    },
+    {
+      "phrase": "Fortiori sequitur potentiori",
+      "meaning": "Daha güçlü olan daha güçlüyü takip eder"
+    },
+    {
+      "phrase": "Fortis et liber",
+      "meaning": "Güçlü ve özgür"
+    },
+    {
+      "phrase": "Fortitudine vincimus",
+      "meaning": "Cesaretimizle galip geliyoruz"
+    },
+    {
+      "phrase": "Fortuna caeca est",
+      "meaning": "Şans kör bir kadındır"
+    },
+    {
+      "phrase": "Fructus belli",
+      "meaning": "Savaşın meyveleri"
+    },
+    {
+      "phrase": "Fugit hora",
+      "meaning": "Saat geçiyor"
+    },
+    {
+      "phrase": "Fugit hora, nunc est bibendum",
+      "meaning": "Saat geçiyor, şimdi içmeye başlama zamanı"
+    },
+    {
+      "phrase": "Fugit irreparabile tempus",
+      "meaning": "Geri dönüşü olmayan zaman kaçar"
+    },
+    {
+      "phrase": "Fulmen brutum",
+      "meaning": "Sesi çıkmayan yıldırım"
+    },
+    {
+      "phrase": "Fumus boni iuris",
+      "meaning": "İyi bir davaya dayalı duman"
+    },
+    {
+      "phrase": "Fundamentum inconcussum",
+      "meaning": "Sarsılmaz temel"
+    },
+    {
+      "phrase": "Furorem poenae tempus habet",
+      "meaning": "Ceza öfkenin zamanını bekler"
+    },
+    {
+      "phrase": "Futuri temporis exitum",
+      "meaning": "Geleceğin sonu"
+    },
+    {
+      "phrase": "Futurum est",
+      "meaning": "Gelecek vardır"
+    },
+    {
+      "phrase": "Gaudium certaminis",
+      "meaning": "Mücadeledeki sevinç"
+    },
+    {
+      "phrase": "Gaudium certum est",
+      "meaning": "Sevinç kesindir"
+    },
+    {
+      "phrase": "Gaudium in veritate",
+      "meaning": "Gerçekte sevinç"
+    },
+    {
+      "phrase": "Gaudium vitae",
+      "meaning": "Hayatın sevinci"
+    },
+    {
+      "phrase": "Gaudeamus igitur",
+      "meaning": "Hadi sevinelim"
+    },
+    {
+      "phrase": "Geminae dracones",
+      "meaning": "İkiz ejderhalar"
+    },
+    {
+      "phrase": "Generis humani decus",
+      "meaning": "İnsanlık onuru"
+    },
+    {
+      "phrase": "Generis humani ornamentum",
+      "meaning": "İnsanlığın süsü"
+    },
+    {
+      "phrase": "Generis virtus nobilitas",
+      "meaning": "Soylu, asil nitelikler soyadı verir"
+    },
+    {
+      "phrase": "Genius loci",
+      "meaning": "Yerin ruhu, mekanın özü"
+    },
+    {
+      "phrase": "Genius locorum",
+      "meaning": "Yerlerin ruhu"
+    },
+    {
+      "phrase": "Gens una sumus",
+      "meaning": "Bir milletiz"
+    },
+    {
+      "phrase": "Genus et differentia",
+      "meaning": "Tür ve farklılık"
+    },
+    {
+      "phrase": "Genus et species",
+      "meaning": "Tür ve tür"
+    },
+    {
+      "phrase": "Genus irritabile vatum",
+      "meaning": "Sinirli şairler topluluğu"
+    },
+    {
+      "phrase": "Gesta non verba",
+      "meaning": "Eylemler, sözlerden daha önemlidir"
+    },
+    {
+      "phrase": "Gloria et honore",
+      "meaning": "Şan ve onurla"
+    },
+    {
+      "phrase": "Gloria in altissimis Deo",
+      "meaning": "Tanrı'ya en yüksek yerlerde yücelik olsun"
+    },
+    {
+      "phrase": "Gloria in excelsis Deo",
+      "meaning": "Tanrı'ya yücelik olsun"
+    },
+    {
+      "phrase": "Gloria in perpetuum",
+      "meaning": "Sonsuza kadar yücelik"
+    },
+    {
+      "phrase": "Gloria mundi",
+      "meaning": "Dünyanın şanı"
+    },
+    {
+      "phrase": "Gloria mundi transit",
+      "meaning": "Dünya şanı geçer"
+    },
+    {
+      "phrase": "Gloria Patri",
+      "meaning": "Oğula yücelik olsun"
+    },
+    {
+      "phrase": "Gloria Patri et Filio et Spiritui Sancto",
+      "meaning": "Baba, Oğul ve Kutsal Ruh'a şan olsun"
+    },
+    {
+      "phrase": "Gradatim ferociter",
+      "meaning": "Adım adım, yavaşça ama hırslı bir şekilde"
+    },
+    {
+      "phrase": "Gradus ad Parnassum",
+      "meaning": "Parnassus'a çıkış adımları"
+    },
+    {
+      "phrase": "Grata fidelitas",
+      "meaning": "Minnettar sadakat"
+    },
+    {
+      "phrase": "Grata plena",
+      "meaning": "Lütuf dolu"
+    },
+    {
+      "phrase": "Grata superveniet quae non sperabitur hora",
+      "meaning": "Umut edilmeyen bir saatte mutluluk gelir"
+    },
+    {
+      "phrase": "Gratia artis",
+      "meaning": "Sanatın lütfu"
+    },
+    {
+      "phrase": "Gratia Dei",
+      "meaning": "Tanrı'nın lütfu"
+    },
+    {
+      "phrase": "Gratia et honore",
+      "meaning": "Lütuf ve onurla"
+    },
+    {
+      "phrase": "Gratia placenti",
+      "meaning": "Beğenilen için lütuf"
+    },
+    {
+      "phrase": "Gratia suavitateque",
+      "meaning": "Lütuf ve zarafetle"
+    },
+    {
+      "phrase": "Gratias tibi ago",
+      "meaning": "Sana teşekkür ederim"
+    },
+    {
+      "phrase": "Gratum animum fortuna sequitur",
+      "meaning": "İyi ruh, şansı takip eder"
+    },
+    {
+      "phrase": "Gratum est quod ratio pulchrum est",
+      "meaning": "Mantıklı olan güzeldir"
+    },
+    {
+      "phrase": "Gratum sequitur",
+      "meaning": "Zevk takip eder"
+    },
+    {
+      "phrase": "Gratus animus est una virtus",
+      "meaning": "Minnettar bir zihin, tek bir erdemdir"
+    },
+    {
+      "phrase": "Gravis aeger",
+      "meaning": "Hasta birinin ağırlığı"
+    },
+    {
+      "phrase": "Gravis et crepitans",
+      "meaning": "Ağır ve çatırdayan"
+    },
+    {
+      "phrase": "Graviora manent",
+      "meaning": "Daha ciddi şeyler bekliyor"
+    },
+    {
+      "phrase": "Gravitas",
+      "meaning": "Ciddiyet, ağırlık"
+    },
+    {
+      "phrase": "Graviter commotus",
+      "meaning": "Şiddetle harekete geçmiş"
+    },
+    {
+      "phrase": "Gressus aeternitatis",
+      "meaning": "Sonsuzluğun adımları"
+    },
+    {
+      "phrase": "Grosso modo",
+      "meaning": "Büyük çizgilerle, genel hatlarıyla"
+    },
+    {
+      "phrase": "Guttatim",
+      "meaning": "Damlalar halinde"
+    },
+    {
+      "phrase": "Habeas corpus",
+      "meaning": "Vücudu getir"
+    },
+    {
+      "phrase": "Habetis bona deum",
+      "meaning": "İyi bir tanrınız var"
+    },
+    {
+      "phrase": "Habetis fidem",
+      "meaning": "İnancınızı koruyun"
+    },
+    {
+      "phrase": "Habetis pecuniam",
+      "meaning": "Parayı alın"
+    },
+    {
+      "phrase": "Habemus papam",
+      "meaning": "Bir papamız var"
+    },
+    {
+      "phrase": "Habemus vis",
+      "meaning": "Gücümüz var"
+    },
+    {
+      "phrase": "Habent sua fata libelli",
+      "meaning": "Kitapların da kaderleri vardır"
+    },
+    {
+      "phrase": "Habeo vos in aquis",
+      "meaning": "Sizi suya sahip ediyorum"
+    },
+    {
+      "phrase": "Haec olim meminisse iuvabit",
+      "meaning": "Bir gün bunları hatırlamak hoş olacak"
+    },
+    {
+      "phrase": "Hic et nunc",
+      "meaning": "İşte burada ve şimdi"
+    },
+    {
+      "phrase": "Hic sunt leones",
+      "meaning": "Burada aslanlar vardır"
+    },
+    {
+      "phrase": "Historia vitae magistra",
+      "meaning": "Hayat öğretmenin hikayesidir"
+    },
+    {
+      "phrase": "Hoc est corpus meum",
+      "meaning": "Bu benim bedenimdir"
+    },
+    {
+      "phrase": "Hoc volo, sic iubeo",
+      "meaning": "Bunu istiyorum, böyle emrediyorum"
+    },
+    {
+      "phrase": "Hodie mihi, cras tibi",
+      "meaning": "Bugün bana, yarın sana"
+    },
+    {
+      "phrase": "Hominem te esse memento",
+      "meaning": "İnsan olduğunu hatırla"
+    },
+    {
+      "phrase": "Homo bonus, omnia bona",
+      "meaning": "İyi insan, her şeyin iyisidir"
+    },
+    {
+      "phrase": "Homo bulla est",
+      "meaning": "İnsan bir kabarcıktır"
+    },
+    {
+      "phrase": "Homo ex machina",
+      "meaning": "Makineden çıkan insan"
+    },
+    {
+      "phrase": "Homo faber fortunae suae",
+      "meaning": "İnsan, kendi kaderinin ustasıdır"
+    },
+    {
+      "phrase": "Homo homini Deus est",
+      "meaning": "İnsan, insana bir tanrıdır"
+    },
+    {
+      "phrase": "Homo homini lupus est",
+      "meaning": "İnsan, insana kurttur"
+    },
+    {
+      "phrase": "Homo sapiens",
+      "meaning": "Bilge insan"
+    },
+    {
+      "phrase": "Homo sum, humani nihil a me alienum puto",
+      "meaning": "İnsanım, insan olan her şey bana yabancı değildir"
+    },
+    {
+      "phrase": "Homo viator",
+      "meaning": "Gezgin insan"
+    },
+    {
+      "phrase": "Honor virtutis praemium",
+      "meaning": "Erdemin ödülü onurdur"
+    },
+    {
+      "phrase": "Honores mutant mores",
+      "meaning": "Onurlar, alışkanlıkları değiştirir"
+    },
+    {
+      "phrase": "Honoris causa",
+      "meaning": "Şeref için"
+    },
+    {
+      "phrase": "Honos habet onus",
+      "meaning": "Onur bir yük getirir"
+    },
+    {
+      "phrase": "Hora est",
+      "meaning": "Saat geldi"
+    },
+    {
+      "phrase": "Hora fugit",
+      "meaning": "Zaman kaçar"
+    },
+    {
+      "phrase": "Hora somni",
+      "meaning": "Uyku saati"
+    },
+    {
+      "phrase": "Hora ultima",
+      "meaning": "Son saat"
+    },
+    {
+      "phrase": "Humani nihil a me alienum puto",
+      "meaning": "İnsanlık benden yabancı değildir"
+    },
+    {
+      "phrase": "Ignis fatuus",
+      "meaning": "Kıvılcım"
+    },
+    {
+      "phrase": "Ignis purgatorius",
+      "meaning": "Arındırıcı ateş"
+    },
+    {
+      "phrase": "Ignorantia legis neminem excusat",
+      "meaning": "Yasa bilmezlik hiç kimseyi bağışlamaz"
+    },
+    {
+      "phrase": "Ignorantia non est argumentum",
+      "meaning": "Bilgisizlik bir savunma değildir"
+    },
+    {
+      "phrase": "Ignoscas aliis, multa tibi ignoscant",
+      "meaning": "Başkalarına affet, birçokları sana affetsin"
+    },
+    {
+      "phrase": "Ille etiam viam faciam inveniam aut faciam",
+      "meaning": "O yolu yaparım, bulurum veya yaparım"
+    },
+    {
+      "phrase": "Illuminare necesse est",
+      "meaning": "Aydınlatmak gerekir"
+    },
+    {
+      "phrase": "Imago Dei",
+      "meaning": "Tanrı'nın sureti"
+    },
+    {
+      "phrase": "Imago mundi",
+      "meaning": "Dünya imgesi"
+    },
+    {
+      "phrase": "Imago vivens",
+      "meaning": "Canlı imge"
+    },
+    {
+      "phrase": "Immemor",
+      "meaning": "Unutkan, hatırlamaz"
+    },
+    {
+      "phrase": "Immortalis",
+      "meaning": "Ölümsüz"
+    },
+    {
+      "phrase": "Imperare sibi maximum imperium est",
+      "meaning": "Kendine hükmetmek en büyük hükümdarlıktır"
+    },
+    {
+      "phrase": "Imperium in imperio",
+      "meaning": "Devlette devlet"
+    },
+    {
+      "phrase": "Impetus",
+      "meaning": "Hücum, saldırı"
+    },
+    {
+      "phrase": "Impius",
+      "meaning": "Tanrıtanımaz, dinsiz"
+    },
+    {
+      "phrase": "Imponere",
+      "meaning": "Yüklemek, dayatmak"
+    },
+    {
+      "phrase": "Improbitas",
+      "meaning": "Ahlaksızlık, düşmanlık"
+    },
+    {
+      "phrase": "In cauda venenum",
+      "meaning": "Kuyruğunda zehir"
+    },
+    {
+      "phrase": "In commendam",
+      "meaning": "Geçici olarak emanet etme"
+    },
+    {
+      "phrase": "In corpore sano",
+      "meaning": "Sağlam bir bedende"
+    },
+    {
+      "phrase": "In dubiis, pars tutior sequenda est",
+      "meaning": "Şüpheli durumlarda daha güvenilir taraf izlenmelidir"
+    },
+    {
+      "phrase": "In dubio pro reo",
+      "meaning": "Şüphede lehine sanık"
+    },
+    {
+      "phrase": "In facto quod se habet ad bonum et malum",
+      "meaning": "İyi ve kötüye dair duruma göre"
+    },
+    {
+      "phrase": "In flagrante delicto",
+      "meaning": "Suçüstü halinde"
+    },
+    {
+      "phrase": "In flagranti",
+      "meaning": "Suçüstü"
+    },
+    {
+      "phrase": "In fraude legis",
+      "meaning": "Kanunu kandırmak"
+    },
+    {
+      "phrase": "In limine",
+      "meaning": "Başlangıçta, eşiğinde"
+    },
+    {
+      "phrase": "In medias res",
+      "meaning": "Olayın tam ortasında"
+    },
+    {
+      "phrase": "In medio stat virtus",
+      "meaning": "Erdem ortada durur"
+    },
+    {
+      "phrase": "In medio virtus",
+      "meaning": "Erdem ortada durur"
+    },
+    {
+      "phrase": "In memoriam",
+      "meaning": "Anısına"
+    },
+    {
+      "phrase": "In modum",
+      "meaning": "Şekilde"
+    },
+    {
+      "phrase": "In nomine Domini",
+      "meaning": "Rabbin adıyla"
+    },
+    {
+      "phrase": "In nuce",
+      "meaning": "Ceviz kabuğunda"
+    },
+    {
+      "phrase": "In omnia paratus",
+      "meaning": "Her şeye hazır"
+    },
+    {
+      "phrase": "In pari delicto",
+      "meaning": "Eşit derecede suçlu"
+    },
+    {
+      "phrase": "In principio erat verbum",
+      "meaning": "Başlangıçta söz vardı"
+    },
+    {
+      "phrase": "In propria persona",
+      "meaning": "Kendi kişiliğiyle"
+    },
+    {
+      "phrase": "In re",
+      "meaning": "Mülkiyet konusu olan"
+    },
+    {
+      "phrase": "In saecula saeculorum",
+      "meaning": "Sonsuzlara dek"
+    },
+    {
+      "phrase": "In silico",
+      "meaning": "Bilgisayar ortamında, sanal olarak"
+    },
+    {
+      "phrase": "In situ",
+      "meaning": "Yerinde, orijinal konumunda"
+    },
+    {
+      "phrase": "In statu quo",
+      "meaning": "Mevcut durumda"
+    },
+    {
+      "phrase": "In toto",
+      "meaning": "Tamamen"
+    },
+    {
+      "phrase": "In transit",
+      "meaning": "Geçiş halinde"
+    },
+    {
+      "phrase": "In utero",
+      "meaning": "Rahim içinde"
+    },
+    {
+      "phrase": "In vacuo",
+      "meaning": "Boşlukta"
+    },
+    {
+      "phrase": "In vino veritas",
+      "meaning": "Şarapta gerçeklik vardır"
+    },
+    {
+      "phrase": "In vitro",
+      "meaning": "Cam kap içinde, deney tüpü ortamında"
+    },
+    {
+      "phrase": "In vivo",
+      "meaning": "Canlı organizmada"
+    },
+    {
+      "phrase": "Incendium amoris",
+      "meaning": "Aşk ateşi"
+    },
+    {
+      "phrase": "Incertus",
+      "meaning": "Belirsiz, şüpheli"
+    },
+    {
+      "phrase": "Incessanter",
+      "meaning": "Durmadan"
+    },
+    {
+      "phrase": "Incipit",
+      "meaning": "Başlar"
+    },
+    {
+      "phrase": "Inclusio unius est exclusio alterius",
+      "meaning": "Birini içermek diğerini dışlamaktır"
+    },
+    {
+      "phrase": "Indeclinabilis",
+      "meaning": "Çekimsiz"
+    },
+    {
+      "phrase": "Indignatio",
+      "meaning": "Öfke"
+    },
+    {
+      "phrase": "Indocti discant et ament meminisse periti",
+      "meaning": "Bilgisizler öğrenirken delirir, bilgeler hatırlar"
+    },
+    {
+      "phrase": "Infamia",
+      "meaning": "Kötü şöhret, utanç"
+    },
+    {
+      "phrase": "Infans",
+      "meaning": "Bebek, çocuk"
+    },
+    {
+      "phrase": "Infinitum",
+      "meaning": "Sonsuz"
+    },
+    {
+      "phrase": "Infirmus",
+      "meaning": "Zayıf, güçsüz"
+    },
+    {
+      "phrase": "Infra",
+      "meaning": "Altında"
+    },
+    {
+      "phrase": "Infra dig",
+      "meaning": "Haddi aşan"
+    },
+    {
+      "phrase": "Infra legem",
+      "meaning": "Yasadan daha altta"
+    },
+    {
+      "phrase": "Ingrates si dixeris, omnia dixeris",
+      "meaning": "İlgisiz birine her şeyi söylediğini söylemiş olursun"
+    },
+    {
+      "phrase": "Ingratum",
+      "meaning": "Nankör, vefasız"
+    },
+    {
+      "phrase": "Ingravescente aetate",
+      "meaning": "Yaşlandıkça"
+    },
+    {
+      "phrase": "Inhospita",
+      "meaning": "Konuksever olmayan"
+    },
+    {
+      "phrase": "Inhorrescere",
+      "meaning": "Ürkütmek"
+    },
+    {
+      "phrase": "Inhumanum est",
+      "meaning": "İnsanlık dışıdır"
+    },
+    {
+      "phrase": "Inimicus",
+      "meaning": "Düşman, hasım"
+    },
+    {
+      "phrase": "Inimicus inimico amicus",
+      "meaning": "Düşmanın düşmanı dosttur"
+    },
+    {
+      "phrase": "Inimicus inimico amicus est",
+      "meaning": "Düşmanımın düşmanı dostumdur"
+    },
+    {
+      "phrase": "Iniquitas",
+      "meaning": "Adaletsizlik, haksızlık"
+    },
+    {
+      "phrase": "Iniquum",
+      "meaning": "Adaletsiz"
+    },
+    {
+      "phrase": "Iniquum est",
+      "meaning": "Adaletsizdir"
+    },
+    {
+      "phrase": "Injuste",
+      "meaning": "Haksız yere"
+    },
+    {
+      "phrase": "Injuria",
+      "meaning": "Haksızlık, zulüm"
+    },
+    {
+      "phrase": "Injuria non excusat injuriam",
+      "meaning": "Bir haksızlık, başka bir haksızlığı mazur görmez"
+    },
+    {
+      "phrase": "Injuria sine damno",
+      "meaning": "Zararsız haksızlık"
+    },
+    {
+      "phrase": "Innocentia",
+      "meaning": "Masumiyet"
+    },
+    {
+      "phrase": "Inopinatum",
+      "meaning": "Beklenmedik"
+    },
+    {
+      "phrase": "Inopia",
+      "meaning": "Yoksulluk, eksiklik"
+    },
+    {
+      "phrase": "Inops",
+      "meaning": "Yoksul"
+    },
+    {
+      "phrase": "Inprovisus",
+      "meaning": "Beklenmedik"
+    },
+    {
+      "phrase": "Insania",
+      "meaning": "Delilik, akıl hastalığı"
+    },
+    {
+      "phrase": "Insanus",
+      "meaning": "Deli, çılgın"
+    },
+    {
+      "phrase": "Inscientia",
+      "meaning": "Bilgisizlik, cehalet"
+    },
+    {
+      "phrase": "Inserviendo consumor",
+      "meaning": "Hizmet ederek tükenirim"
+    },
+    {
+      "phrase": "Insidiae",
+      "meaning": "Tuzak, hile"
+    },
+    {
+      "phrase": "Insita naturae lex",
+      "meaning": "Doğanın içinde olan bir kanundur"
+    },
+    {
+      "phrase": "Institutum",
+      "meaning": "Kuruluş, kurum"
+    },
+    {
+      "phrase": "Instar omnium",
+      "meaning": "Herkesin yerine"
+    },
+    {
+      "phrase": "Integer vitae",
+      "meaning": "Dürüst yaşam"
+    },
+    {
+      "phrase": "Integritas",
+      "meaning": "Bütünlük, dürüstlük"
+    },
+    {
+      "phrase": "Intellige ut credas",
+      "meaning": "İnanman için anla"
+    },
+    {
+      "phrase": "Intellectus agens",
+      "meaning": "Eyleyen akıl"
+    },
+    {
+      "phrase": "Intemerata fides",
+      "meaning": "Leke bulunmamış sadakat"
+    },
+    {
+      "phrase": "Inter absentes",
+      "meaning": "Uzaklarda, ayrı yerlerde"
+    },
+    {
+      "phrase": "Inter alia",
+      "meaning": "Diğer şeyler arasında"
+    },
+    {
+      "phrase": "Inter arma silent leges",
+      "meaning": "Silahlar konuşurken yasalar susar"
+    },
+    {
+      "phrase": "Inter caecos regnat strabus",
+      "meaning": "Körler arasında şaşkın hüküm sürer"
+    },
+    {
+      "phrase": "Inter clarissimos auctores",
+      "meaning": "En ünlü yazarlar arasında"
+    },
+    {
+      "phrase": "Inter nos",
+      "meaning": "Aramızda"
+    },
+    {
+      "phrase": "Inter se",
+      "meaning": "Kendi aralarında"
+    },
+    {
+      "phrase": "Inter vivos",
+      "meaning": "Yaşayanlar arasında"
+    },
+    {
+      "phrase": "Interdum",
+      "meaning": "Bazen, ara sıra"
+    },
+    {
+      "phrase": "Interfice errorem, ama dilige errantem",
+      "meaning": "Yanlışı yok et, ama yanılanı sev"
+    },
+    {
+      "phrase": "Interfector",
+      "meaning": "Katil, öldüren"
+    },
+    {
+      "phrase": "Interim",
+      "meaning": "Geçici olarak"
+    },
+    {
+      "phrase": "Interitus",
+      "meaning": "Yok oluş, ölüm"
+    },
+    {
+      "phrase": "Interpres",
+      "meaning": "Tercüman, çevirmen"
+    },
+    {
+      "phrase": "Intra",
+      "meaning": "İçinde, içerisinde"
+    },
+    {
+      "phrase": "Intra muros",
+      "meaning": "Şehir sınırları içinde"
+    },
+    {
+      "phrase": "Intra vires",
+      "meaning": "Yetki sınırları içinde"
+    },
+    {
+      "phrase": "Intrare",
+      "meaning": "Girmek"
+    },
+    {
+      "phrase": "Intransigens",
+      "meaning": "Uzlaşmaz, taviz vermeyen"
+    },
+    {
+      "phrase": "Invicta",
+      "meaning": "Yenilmez"
+    },
+    {
+      "phrase": "Invictus",
+      "meaning": "Yenilmez, galip"
+    },
+    {
+      "phrase": "Invidia",
+      "meaning": "Kıskançlık, haset"
+    },
+    {
+      "phrase": "Invidia est ultio stupri",
+      "meaning": "Kıskançlık tecavüzün intikamıdır"
+    },
+    {
+      "phrase": "Invidia gloriae comes",
+      "meaning": "Kıskançlık şanın eşlikçisidir"
+    },
+    {
+      "phrase": "Invidia triumphalis",
+      "meaning": "Zaferin kıskançlığı"
+    },
+    {
+      "phrase": "Invisibilia non decipiunt",
+      "meaning": "Görünmez şeyler aldatmaz"
+    },
+    {
+      "phrase": "Invisibilis",
+      "meaning": "Görünmez"
+    },
+    {
+      "phrase": "Invita Minerva",
+      "meaning": "Minerva'ya rağmen, karşı gelerek"
+    },
+    {
+      "phrase": "Invito beneficium non datur",
+      "meaning": "İsteksizlikle yapılan iyilik kabul edilemez"
+    },
+    {
+      "phrase": "Inveniam viam aut faciam",
+      "meaning": "Bir yol bulurum ya da yaparım"
+    },
+    {
+      "phrase": "Ipsa loquitur",
+      "meaning": "Kendi kendine konuşur"
+    },
+    {
+      "phrase": "Ipsa scientia potestas est",
+      "meaning": "Bilgi kendisi güçtür"
+    },
+    {
+      "phrase": "Ipsa verba",
+      "meaning": "Kendi kelimeleri"
+    },
+    {
+      "phrase": "Ipsissima verba",
+      "meaning": "En doğru kelimeler"
+    },
+    {
+      "phrase": "Ipso facto",
+      "meaning": "Kendi gerçeğiyle"
+    },
+    {
+      "phrase": "Ipso jure",
+      "meaning": "Yasal olarak"
+    },
+    {
+      "phrase": "Ira furor brevis est",
+      "meaning": "Öfke kısa bir deliliktir"
+    },
+    {
+      "phrase": "Iratus leo non erat ferocior",
+      "meaning": "Öfkeli bir aslan daha vahşi olmaz"
+    },
+    {
+      "phrase": "Iratus leo rugit",
+      "meaning": "Kızgın aslan kükremektedir"
+    },
+    {
+      "phrase": "Irrita causa",
+      "meaning": "Geçersiz sebep"
+    },
+    {
+      "phrase": "Irritamentum",
+      "meaning": "Uyarıcı, teşvik edici"
+    },
+    {
+      "phrase": "Irrumpere",
+      "meaning": "Saldırmak, hücum etmek"
+    },
+    {
+      "phrase": "Iter ad astra",
+      "meaning": "Yıldızlara doğru yolculuk"
+    },
+    {
+      "phrase": "Iter est opus",
+      "meaning": "Yol çalışmadır"
+    },
+    {
+      "phrase": "Iterum",
+      "meaning": "Tekrar"
+    },
+    {
+      "phrase": "Iterum iterumque",
+      "meaning": "Tekrar tekrar"
+    },
+    {
+      "phrase": "Itinera electronica",
+      "meaning": "Elektronik yollar"
+    },
+    {
+      "phrase": "Iucunda es",
+      "meaning": "Mutlu ol"
+    },
+    {
+      "phrase": "Iucunditas",
+      "meaning": "Zevk, keyif"
+    },
+    {
+      "phrase": "Iucundum",
+      "meaning": "Hoş, zevkli"
+    },
+    {
+      "phrase": "Iucundum mori",
+      "meaning": "Ölüm hoştur"
+    },
+    {
+      "phrase": "Iudex non calculat",
+      "meaning": "Hakim hesap yapmaz"
+    },
+    {
+      "phrase": "Iudex suspectus",
+      "meaning": "Şüpheli hakim"
+    },
+    {
+      "phrase": "Iudex uninominalis",
+      "meaning": "Tek adaylı hakim"
+    },
+    {
+      "phrase": "Iudicium",
+      "meaning": "Yargılama, mahkeme"
+    },
+    {
+      "phrase": "Iudicium parium",
+      "meaning": "Yargıçların kararı"
+    },
+    {
+      "phrase": "Iudico",
+      "meaning": "Yargılamak, hüküm vermek"
+    },
+    {
+      "phrase": "Iuncta juvant",
+      "meaning": "Birleşik olanlar yardımcı olur"
+    },
+    {
+      "phrase": "Iunctim",
+      "meaning": "Birleşik olarak"
+    },
+    {
+      "phrase": "Iunctura",
+      "meaning": "Birleşme, birleşik"
+    },
+    {
+      "phrase": "Iure sanguinis",
+      "meaning": "Kan bağıyla"
+    },
+    {
+      "phrase": "Iure uxoris",
+      "meaning": "Karısının hakkıyla"
+    },
+    {
+      "phrase": "Iuris praecepta sunt haec",
+      "meaning": "Hukuk kuralları şunlardır"
+    },
+    {
+      "phrase": "Iurisconsultus",
+      "meaning": "Hukuk danışmanı"
+    },
+    {
+      "phrase": "Iurisprudentia",
+      "meaning": "Hukuk bilimi"
+    },
+    {
+      "phrase": "Ius ad bellum",
+      "meaning": "Savaşa izin hakkı"
+    },
+    {
+      "phrase": "Ius canonicum",
+      "meaning": "Kanon hukuku"
+    },
+    {
+      "phrase": "Ius cogens",
+      "meaning": "Zorunlu hukuk"
+    },
+    {
+      "phrase": "Ius civile",
+      "meaning": "Medeni hukuk"
+    },
+    {
+      "phrase": "Ius gentium",
+      "meaning": "Milletler hukuku"
+    },
+    {
+      "phrase": "Ius in bello",
+      "meaning": "Savaş hukuku"
+    },
+    {
+      "phrase": "Ius in personam",
+      "meaning": "Kişi üzerindeki hak"
+    },
+    {
+      "phrase": "Ius in rem",
+      "meaning": "Şey üzerindeki hak"
+    },
+    {
+      "phrase": "Ius legitimum",
+      "meaning": "Yasal hak"
+    },
+    {
+      "phrase": "Ius naturale",
+      "meaning": "Doğal hukuk"
+    },
+    {
+      "phrase": "Ius primae noctis",
+      "meaning": "İlk gece hakkı"
+    },
+    {
+      "phrase": "Ius privatum",
+      "meaning": "Özel hukuk"
+    },
+    {
+      "phrase": "Ius publicum",
+      "meaning": "Kamu hukuku"
+    },
+    {
+      "phrase": "Ius sanguinis",
+      "meaning": "Kan bağına dayalı vatandaşlık"
+    },
+    {
+      "phrase": "Ius soli",
+      "meaning": "Doğum yeri esasına dayalı vatandaşlık"
+    },
+    {
+      "phrase": "Ius suum cuique tribuere",
+      "meaning": "Herkese hakkını vermek"
+    },
+    {
+      "phrase": "Ius tertii",
+      "meaning": "Üçüncü kişinin hakkı"
+    },
+    {
+      "phrase": "Ius trium liberorum",
+      "meaning": "Üç çocuk hakkı"
+    },
+    {
+      "phrase": "Ius ubique",
+      "meaning": "Her yerde geçerli hukuk"
+    },
+    {
+      "phrase": "Ius utendi",
+      "meaning": "Kullanma hakkı"
+    },
+    {
+      "phrase": "Ius vendendi",
+      "meaning": "Satma hakkı"
+    },
+    {
+      "phrase": "Ius vitae necisque",
+      "meaning": "Yaşam ve ölüm hakkı"
+    },
+    {
+      "phrase": "Iusta causa",
+      "meaning": "Haklı sebep"
+    },
+    {
+      "phrase": "Iustitia",
+      "meaning": "Adalet"
+    },
+    {
+      "phrase": "Iustitia distributiva",
+      "meaning": "Dağıtıcı adalet"
+    },
+    {
+      "phrase": "Iustitia est fundamentum regnorum",
+      "meaning": "Adalet krallıkların temelidir"
+    },
+    {
+      "phrase": "Iustitia fundamentum regnorum",
+      "meaning": "Adalet devletlerin temelidir"
+    },
+    {
+      "phrase": "Iustitia omnibus",
+      "meaning": "Adalet herkese"
+    },
+    {
+      "phrase": "Iustitia omnibus et singulis praestanda est",
+      "meaning": "Adalet herkese ve her birine sağlanmalıdır"
+    },
+    {
+      "phrase": "Iustitia suum cuique tribuere",
+      "meaning": "Adalet herkese hakkını verir"
+    },
+    {
+      "phrase": "Iustitia vigilat",
+      "meaning": "Adalet uyanıktır"
+    },
+    {
+      "phrase": "Iustitiam moniti",
+      "meaning": "Adaleti hatırlatanlar"
+    },
+    {
+      "phrase": "Iustum et tenacem propositi virum",
+      "meaning": "Adil ve kararlı bir kişi"
+    },
+    {
+      "phrase": "Iustum matrimonium",
+      "meaning": "Meşru evlilik"
+    },
+    {
+      "phrase": "Iustum pretium",
+      "meaning": "Adil fiyat"
+    },
+    {
+      "phrase": "Iustus",
+      "meaning": "Adil, doğru"
+    },
+    {
+      "phrase": "Iustus dominus",
+      "meaning": "Adaletli efendi"
+    },
+    {
+      "phrase": "Iustus et tenax propositi",
+      "meaning": "Kararlı ve azimli"
+    },
+    {
+      "phrase": "Iustus ex injuria non oritur",
+      "meaning": "Haksızlıktan doğru çıkmaz"
+    },
+    {
+      "phrase": "Iuvat",
+      "meaning": "Yardımcı olmak"
+    },
+    {
+      "phrase": "Iuvat vivere",
+      "meaning": "Yaşamak hoştur"
+    },
+    {
+      "phrase": "Iuvo",
+      "meaning": "Yardım etmek"
+    },
+    {
+      "phrase": "Iuvo me",
+      "meaning": "Bana yardım et"
+    },
+    {
+      "phrase": "Iuvo te",
+      "meaning": "Sana yardım edeyim"
+    },
+    {
+      "phrase": "Iuventus stultorum magister",
+      "meaning": "Gençlik aptalların öğretmenidir"
+    },
+    {
+      "phrase": "Iuventus triumphans",
+      "meaning": "Zafer kazanan gençlik"
+    },
+    {
+      "phrase": "Iuventus vitae",
+      "meaning": "Gençlik yılları"
+    },
+    {
+      "phrase": "Iuxta",
+      "meaning": "Yakın, yanında"
+    },
+    {
+      "phrase": "Iuxta propria principia",
+      "meaning": "Kendi prensiplerine göre"
+    },
+    {
+      "phrase": "Iuxta se",
+      "meaning": "Kendi içinde"
+    },
+    {
+      "phrase": "Iuxta tempora",
+      "meaning": "Zaman içinde"
+    },
+    {
+      "phrase": "Iuxta testatum",
+      "meaning": "Şahitlik edildiği gibi"
+    },
+    {
+      "phrase": "Jacta alea est",
+      "meaning": "Zar atıldı"
+    },
+    {
+      "phrase": "Jacta alia est",
+      "meaning": "Başka bir şans"
+    },
+    {
+      "phrase": "Jocoseria",
+      "meaning": "Şaka, espri"
+    },
+    {
+      "phrase": "Jocularis",
+      "meaning": "Şakacı, espri yapan"
+    },
+    {
+      "phrase": "Jovis ira, fulminis ara",
+      "meaning": "Jüpiter'in öfkesi, yıldırımın hedefi"
+    },
+    {
+      "phrase": "Judex",
+      "meaning": "Hakim, yargıç"
+    },
+    {
+      "phrase": "Judicium parium",
+      "meaning": "Yargıçların halkının hükmü"
+    },
+    {
+      "phrase": "Judoco",
+      "meaning": "Yargılayıcı"
+    },
+    {
+      "phrase": "Jugulum",
+      "meaning": "Boğaz"
+    },
+    {
+      "phrase": "Jugulum tenere",
+      "meaning": "Boğazı sıkmak"
+    },
+    {
+      "phrase": "Jugum ferre",
+      "meaning": "Boyun eğmek"
+    },
+    {
+      "phrase": "Jumentum",
+      "meaning": "Yük hayvanı"
+    },
+    {
+      "phrase": "Jumentum et vehiculum",
+      "meaning": "Yük hayvanı ve araç"
+    },
+    {
+      "phrase": "Juramentum",
+      "meaning": "Yemin"
+    },
+    {
+      "phrase": "Jurare in verba magistri",
+      "meaning": "Öğretmenin sözlerine yemin etmek"
+    },
+    {
+      "phrase": "Jus dispositivum",
+      "meaning": "Tarafların düzenleyebildiği hukuk"
+    },
+    {
+      "phrase": "Jus et fraus numquam cohabitant",
+      "meaning": "Hukuk ve hile bir arada olmaz"
+    },
+    {
+      "phrase": "Jus et lex",
+      "meaning": "Hak ve yasa"
+    },
+    {
+      "phrase": "Jus imperiumque",
+      "meaning": "Hukuk ve egemenlik"
+    },
+    {
+      "phrase": "Jusjurandum",
+      "meaning": "Yemin"
+    },
+    {
+      "phrase": "Justum et tenacem propositi virum",
+      "meaning": "Adil ve kararlı bir kişi"
+    },
+    {
+      "phrase": "Juvenis",
+      "meaning": "Genç"
+    },
+    {
+      "phrase": "Juvenis vita, senex philosophia",
+      "meaning": "Gençlik hayatı, yaşlılık felsefesi"
+    },
+    {
+      "phrase": "Juventa",
+      "meaning": "Gençlik"
+    },
+    {
+      "phrase": "Juvencus",
+      "meaning": "Genç öküz"
+    },
+    {
+      "phrase": "Juvenescentia",
+      "meaning": "Gençleşme"
+    },
+    {
+      "phrase": "Jussu",
+      "meaning": "Emirle, buyrukla"
+    }
+  ]
+}

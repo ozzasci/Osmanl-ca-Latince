@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Osmanlıca & Latince Ezber ve Çeviri</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@700&family=Amiri:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Osmanlıca & Latince Ezber ve Çeviri</h1>
+    <nav class="main-menu">
+      <button id="profileBtn" title="Profil / Rozetler"><i class="fa-solid fa-user"></i></button>
+      <button id="addWordShowBtn" title="Yeni Kelime"><i class="fa fa-plus"></i></button>
+      <button id="startQuiz" title="Quiz Başlat"><i class="fa-solid fa-question"></i></button>
+      <button id="showQuizResultsBtn" title="Quiz Sonuçları"><i class="fa-solid fa-chart-simple"></i></button>
+      <button id="exportWordsBtn" title="Dışa Aktar"><i class="fa fa-download"></i></button>
+      <button id="importWordsBtn" title="İçe Aktar"><i class="fa fa-upload"></i></button>
+      <input type="file" id="importWordsFile" accept=".json,.csv,.txt" style="display:none">
+      <button id="showOnlyFavsBtn" title="Sadece Favoriler"><i class="fa fa-star"></i></button>
+      <button id="showOnlyLearnedBtn" title="Öğrenilenler"><i class="fa fa-check-double"></i></button>
+      <button id="showOnlyUnlearnedBtn" title="Öğrenilmemişler"><i class="fa fa-circle-xmark"></i></button>
+      <button id="notesBtn" title="Yorum Defteri"><i class="fa-solid fa-comments"></i></button>
+      <button id="discussionsBtn" title="Topluluk/Forum"><i class="fa-solid fa-users"></i></button>
+      <button id="openGazeteBtnMenu" title="Osmanlıca Gazete Oku"><i class="fa-solid fa-newspaper"></i></button>
+      <button id="wordGamesBtn" title="Kelime Oyunları"><i class="fa-solid fa-gamepad"></i></button>
+      <button onclick="showDrawModal()" title="Elle Osmanlıca Yazı"><i class="fa-solid fa-pen-nib"></i></button>
+      <button id="contactBtn" title="İletişim / Görüş"><i class="fa-solid fa-envelope"></i></button>
+      <span id="learnedStats"></span>
+    </nav>
+    <div class="controls">
+      <input type="search" id="search" placeholder="Kelime (Osmanlıca/Latince) veya anlam ara">
+      <button id="osmanlicaKeyboardBtn" title="Osmanlıca Klavye"><i class="fa-solid fa-keyboard"></i></button>
+    </div>
+
+    <div id="addWordModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>Yeni Kelime Ekle</h2>
+        <input type="text" id="addOsmanlica" placeholder="Osmanlıca (Arap harfli)">
+        <input type="text" id="addLatince" placeholder="Latince (Latin harfli)">
+        <input type="text" id="addAnlam" placeholder="Türkçe Anlamı">
+        <label>El Yazısı Görseli (isteğe bağlı):</label>
+        <input type="file" id="addElYazisiImg" accept="image/*">
+        <label>Sesli Telaffuz (isteğe bağlı):</label>
+        <input type="file" id="addAudio" accept="audio/*">
+        <button id="addWordBtn">Ekle</button>
+        <button type="button" onclick="document.getElementById('addWordModal').style.display='none'">Kapat</button>
+        <button type="button" onclick="showDrawModal()">🖌️ El Yazısı Çiz</button>
+      </div>
+    </div>
+
+    <div id="drawModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>Osmanlıca El Yazısı Çizim Alanı</h2>
+        <canvas id="osmanlicaCanvas" width="400" height="150" style="border:1.5px solid #888;background:#fff;border-radius:9px;touch-action:none"></canvas>
+        <div style="margin:8px 0;">
+          <button id="clearCanvasBtn">Temizle</button>
+          <button id="saveCanvasBtn">Kaydet / Kullan</button>
+          <button onclick="document.getElementById('drawModal').style.display='none'">Kapat</button>
+        </div>
+        <div id="canvasPreview"></div>
+        <small>Parmak veya fareyle Osmanlıca harfleri çizebilirsiniz.</small>
+      </div>
+    </div>
+
+    <div id="profileModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content" id="profileContent"></div>
+    </div>
+
+    <div id="notesModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>Yorum Defteri</h2>
+        <textarea id="notesArea" rows="8" style="min-width:220px"></textarea>
+        <button onclick="document.getElementById('notesModal').style.display='none'">Kapat</button>
+      </div>
+    </div>
+
+    <div id="gazeteModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>Osmanlıca Gazete Oku</h2>
+        <input type="text" id="gazeteLink" placeholder="Gazete sayfa linkini yapıştırın" value="https://www.osmanlicagazeteler.org/index.php">
+        <button id="openGazeteBtn" style="font-size:1em;"><i class="fa-solid fa-eye"></i> Göster</button>
+        <button onclick="document.getElementById('gazeteModal').style.display='none'">Kapat</button>
+      </div>
+    </div>
+    <div id="gazeteViewer" class="gazete-viewer" style="display:none;">
+      <iframe id="gazeteIframe" style="width:100%;height:600px;border:1px solid #aaa;"></iframe>
+      <button class="gazete-close-btn" onclick="document.getElementById('gazeteViewer').style.display='none'">Kapat</button>
+    </div>
+
+    <div id="quizResultsModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content" id="quizResultsContent"></div>
+    </div>
+
+    <div id="osmanlicaKeyboardModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>Osmanlıca Alfabe</h2>
+        <div id="osmanlicaKeyboard"></div>
+        <button onclick="document.getElementById('osmanlicaKeyboardModal').style.display='none'">Kapat</button>
+      </div>
+    </div>
+
+    <div id="wordGamesModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content" id="gamesContent"></div>
+    </div>
+
+    <div id="tarihiBelgeModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content" id="tarihiBelgeContent"></div>
+    </div>
+
+    <div id="contactModal" class="modal-overlay" style="display:none;">
+      <div class="modal-content">
+        <h2>İletişim & Görüş</h2>
+        <input type="text" id="contactName" placeholder="Adınız (isteğe bağlı)" style="width:95%;">
+        <textarea id="contactMessage" rows="5" placeholder="Görüş, öneri veya şikayetinizi yazınız..." style="width:95%;"></textarea>
+        <button id="contactSendBtn">Gönder</button>
+        <button onclick="document.getElementById('contactModal').style.display='none'">Kapat</button>
+        <div id="contactResult" style="color:green;margin-top:8px;"></div>
+      </div>
+    </div>
+
+    <div id="flashcardContainer" class="flashcard-container"></div>
+    <footer class="copyright-note">
+      <small>
+        © 2025 Osmanlıca & Latince Ezber Yazılımı. Tüm hakları saklıdır.<br>
+        Bu uygulama eğitim ve kişisel kullanım amaçlıdır. Telif hakkı veya yasal itirazlar için lütfen iletişim bölümünden bildirin.
+      </small>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📝 Kelime Testi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>📝 Kelime Testi</h1>
+      <button id="toggleDarkMode">Karanlık Mod</button>
+    </div>
+    
+    <div class="controls">
+      <label for="categoryFilter">Kategori Seç:</label>
+      <select id="categoryFilter" aria-label="Test için kategori seç">
+        <option value="all">Tümü</option>
+      </select>
+      <div class="progress-container">
+        <div id="progressBar"><div id="progressFill" style="width: 0%"></div></div>
+        <p id="progressText" aria-live="polite">Soru: 0 / 10</p>
+      </div>
+      <p id="score" aria-live="polite">Skor: 0 doğru, 0 yanlış</p>
+      <p id="timer" aria-live="polite">Kalan süre: 30 saniye</p>
+    </div>
+    
+    <div id="quizContainer" class="quiz-container">
+      <h2 id="quizQuestion" aria-live="assertive"></h2>
+      <div id="quizOptions"></div>
+      <div id="inputContainer" style="display: none;">
+        <input type="text" id="quizAnswerInput" placeholder="Kelimeyi yazın" aria-label="Cevabı yazın">
+        <button id="submitAnswer">Cevabı Gönder</button>
+      </div>
+    </div>
+    
+    <div class="controls">
+      <button id="goBack" onclick="window.location.href='index.html'">⬅ Geri Dön</button>
+      <button id="endQuiz">Testi Bitir</button>
+    </div>
+    
+    <div id="resultsContainer" class="results-container" style="display: none;">
+      <h2>Test Sonuçları</h2>
+      <p id="resultSummary"></p>
+      <button id="restartQuiz">Testi Yeniden Başlat</button>
+      <button onclick="window.location.href='index.html'">Ana Sayfaya Dön</button>
+    </div>
+  </div>
+  
+  <script src="quiz.js"></script>
+</body>
+</html>
