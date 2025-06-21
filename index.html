@@ -27,7 +27,12 @@
       <button id="openGazeteBtnMenu" title="Osmanlıca Gazete Oku"><i class="fa-solid fa-newspaper"></i></button>
       <button id="wordGamesBtn" title="Kelime Oyunları"><i class="fa-solid fa-gamepad"></i></button>
       <button onclick="showDrawModal()" title="Elle Osmanlıca Yazı"><i class="fa-solid fa-pen-nib"></i></button>
+<button id="telegramBtn" title="Telegram Grubuna Katıl">
+  <i class="fa-brands fa-telegram"></i>
+</button>
       <button id="contactBtn" title="İletişim / Görüş"><i class="fa-solid fa-envelope"></i></button>
+<button id="feedbackBtn" title="Geri Bildirim"><i class="fa-solid fa-comment-dots"></i></button>
+
       <span id="learnedStats"></span>
     </nav>
     <div class="controls">
@@ -120,6 +125,20 @@
         <div id="contactResult" style="color:green;margin-top:8px;"></div>
       </div>
     </div>
+<div id="feedbackModal" class="modal-overlay" style="display:none;">
+  <div class="modal-content">
+    <h2>Geri Bildirim</h2>
+    <select id="feedbackType">
+      <option value="Öneri">Öneri</option>
+      <option value="Hata">Hata</option>
+      <option value="Teşekkür">Teşekkür</option>
+    </select>
+    <textarea id="feedbackText" rows="5" placeholder="Görüşünüzü yazınız..." style="width:95%;"></textarea>
+    <button id="feedbackSendBtn">Gönder</button>
+    <button onclick="document.getElementById('feedbackModal').style.display='none'">Kapat</button>
+    <div id="feedbackResult" style="color:green;margin-top:8px;"></div>
+  </div>
+</div>
 
     <div id="flashcardContainer" class="flashcard-container"></div>
     <footer class="copyright-note">
