@@ -388,9 +388,7 @@ document.getElementById("discussionsBtn").onclick = () => {
 // Gazete modalını menüden aç
 document.getElementById("openGazeteBtnMenu").addEventListener("click", function() {
   window.open("http://www.osmanlicagazeteler.org", "_blank");
-  document.getElementById("gazeteLink").value = "";
-  document.getElementById("gazeteViewer").style.display = "none";
-  document.getElementById("gazeteIframe").src = "";
+ 
 });
 
 // ====== QUIZ ve QUIZ SONUÇLARI ======
