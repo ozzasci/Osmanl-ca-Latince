@@ -60,11 +60,11 @@ h1 { text-align: center; margin: 0 0 16px 0;}
   box-shadow: 0 2px 5px #0002;
 }
 .flashcard-front {
-  color: #222; font-weight: bold; font-size: 1.1em;
+  color: #222; font-weight: bold; font-size: 0.8em;
 }
 .flashcard-back {
   background: #2196f3; color: white;
-  transform: rotateY(180deg); font-size: 1.07em;
+  transform: rotateY(180deg); font-size: 0.8em;
 }
 .osmanlica-arap-font {
   font-family: 'Scheherazade New', 'Amiri', serif;
