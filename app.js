@@ -367,7 +367,9 @@ function mapToUnifiedWord(obj) {
     audio: obj.audio || ""
   };
 }
-
+document.getElementById("telegramBtn").onclick = function() {
+  window.open("https://t.me/Kadimlisan"); // Grup linkinizi buraya yazın
+};
 // ====== YORUM DEFTERİ ======
 document.getElementById("notesBtn").onclick = () => {
   document.getElementById("notesArea").value = localStorage.getItem("userNotes") || "";
@@ -383,16 +385,12 @@ document.getElementById("discussionsBtn").onclick = () => {
 };
 
 // ====== GAZETE OKUMA ======
+// Gazete modalını menüden aç
 document.getElementById("openGazeteBtnMenu").addEventListener("click", function() {
-  document.getElementById("gazeteModal").style.display = "flex";
-});
-document.getElementById("openGazeteBtn").addEventListener("click", function() {
-  const link = document.getElementById("gazeteLink").value.trim();
-  if (!link) { alert("Lütfen bir gazete linki girin!"); return; }
-  if (!/^https?:\/\//.test(link)) { alert("Lütfen geçerli bir http veya https linki girin."); return; }
-  document.getElementById("gazeteIframe").src = link;
-  document.getElementById("gazeteViewer").style.display = "block";
-  document.getElementById("gazeteModal").style.display = "none";
+  window.open("http://www.osmanlicagazeteler.org", "_blank");
+  document.getElementById("gazeteLink").value = "";
+  document.getElementById("gazeteViewer").style.display = "none";
+  document.getElementById("gazeteIframe").src = "";
 });
 
 // ====== QUIZ ve QUIZ SONUÇLARI ======
@@ -492,6 +490,28 @@ function shuffle(arr) {
   return a;
 }
 document.getElementById("startQuiz").addEventListener("click", startQuiz);
+// Geri Bildirim Modalını Aç
+document.getElementById("feedbackBtn").onclick = function() {
+  document.getElementById("feedbackText").value = "";
+  document.getElementById("feedbackType").value = "Öneri";
+  document.getElementById("feedbackResult").innerText = "";
+  document.getElementById("feedbackModal").style.display = "flex";
+};
+
+// Geri Bildirim Gönder
+document.getElementById("feedbackSendBtn").onclick = function() {
+  const type = document.getElementById("feedbackType").value;
+  const msg = document.getElementById("feedbackText").value.trim();
+  if (!msg) {
+    document.getElementById("feedbackResult").innerText = "Lütfen bir mesaj yazınız.";
+    return;
+  }
+  let feedbacks = JSON.parse(localStorage.getItem("userFeedbacks") || "[]");
+  feedbacks.push({ type, msg, date: new Date().toISOString() });
+  localStorage.setItem("userFeedbacks", JSON.stringify(feedbacks));
+  document.getElementById("feedbackResult").innerText = "Görüşünüz kaydedildi, teşekkürler!";
+  document.getElementById("feedbackText").value = "";
+};
 
 // ====== KELİME OYUNLARI GELİŞMİŞ ======
 document.getElementById("wordGamesBtn").onclick = function() {
